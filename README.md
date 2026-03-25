@@ -7,7 +7,7 @@
 
  1. Clonar repositorio:
  ```bash
-    git clone git@github.com:Maniaticos1/GestorReservas-Backend.git
+    git clone https://github.com/SergioSalinero/GestorReservas-Backend
     cd GestorReservas-Backend
  ```
 
