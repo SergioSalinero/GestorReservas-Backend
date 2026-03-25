@@ -1,0 +1,25 @@
+{
+  "name": "gestor-reservas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate:static-jwt": "node scripts/generate_static_jwt.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.0",
+    "pg": "^8.16.3",
+    "uuid": "^8.3.2"
+  }
+}
